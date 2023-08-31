@@ -1,5 +1,6 @@
+package OperacoesBasicas;
 public class Tarefa {
-    final private String descricao;
+    private String descricao;
 
     public Tarefa(String descricao) {
         this.descricao = descricao;

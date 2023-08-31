@@ -1,9 +1,12 @@
+package OperacoesBasicas;
+
+
 import java.util.ArrayList;
 import java.util.List;
 
 public class ListaTarefa {
 
-    final private List<Tarefa> tarefaList;
+    private List<Tarefa> tarefaList;
 
     public ListaTarefa() {
         tarefaList = new ArrayList<>();
