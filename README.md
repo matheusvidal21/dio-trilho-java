@@ -3,7 +3,7 @@
 ### 🚀 Bem-vindo ao meu repositório do Bootcamp de Java da Digital Innovation One!
 Bem-vindo ao repositório do Santander Bootcamp 2023 - Backend Java! Este é um programa de treinamento intensivo focado no desenvolvimento de habilidades em Java e backend de sistemas.Este repositório foi criado para armazenar exemplos e atividades relacionados ao bootcamp. Ao longo do curso, compartilehi códigos de exemplo, projetos práticos e exercícios que me ajudaram a consolidar o conhecimento e as habilidades que estou adquirindo.
 
-## Visão Geral
+## 📋 Visão Geral
 O Santander Bootcamp 2023 é uma iniciativa de aprendizado intensivo que abrange uma ampla variedade de tópicos relacionados ao desenvolvimento de software, com foco especial em Java e tecnologias de backend. Durante este bootcamp, tive a oportunidade de aprimorar suas habilidades técnicas, aprender com mentores experientes e trabalhar em projetos práticos.
 
 ## 📚 Conteúdo do Bootcamp
