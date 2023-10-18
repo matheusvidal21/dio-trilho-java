@@ -20,6 +20,12 @@ O bootcamp é dividido em sete cursos que abordam tópicos essenciais para o des
 
 Cada curso é projetado para proporcionar uma base sólida em cada tópico e inclui desafios práticos para reforçar o aprendizado.
 
+## 🎓 Certificado de conclusão do Bootcamp
+
+<p align="center">
+  <img src="certificado-bootcamp-1.png" alt="Certificado de conclusão do bootcamp">
+</p>
+
 
 
 
